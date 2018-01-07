@@ -1,0 +1,721 @@
+is_coref doc_id chain_index link_index sentence_index pos_tag start_word_index end_word_index sentence
+0 27 0 0 2 NA 2 2 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+0 27 0 1 2 NA 15 16 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+0 27 1 0 2 NA 9 9 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+0 27 1 1 2 NA 15 16 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+0 34 2 0 4 NA 19 20 Attorney Mark Jay Heller told LA Superior Court Judge James R . Dabney that Lohan , 26 , had checked into Morningside Recovery in Newport Beach , CA , according to the Associated Press .
+0 34 2 1 1 NA 7 7 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 3 0 4 NA 19 20 Attorney Mark Jay Heller told LA Superior Court Judge James R . Dabney that Lohan , 26 , had checked into Morningside Recovery in Newport Beach , CA , according to the Associated Press .
+0 34 3 1 3 NA 31 31 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 4 0 1 NA 2 3 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 4 1 1 NA 7 7 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 5 0 1 NA 2 3 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 5 1 3 NA 31 31 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 6 0 3 NA 6 7 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 6 1 1 NA 7 7 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 7 0 3 NA 6 7 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 7 1 3 NA 31 31 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 8 0 4 NA 19 20 Attorney Mark Jay Heller told LA Superior Court Judge James R . Dabney that Lohan , 26 , had checked into Morningside Recovery in Newport Beach , CA , according to the Associated Press .
+0 34 8 1 1 NA 6 6 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 9 0 4 NA 19 20 Attorney Mark Jay Heller told LA Superior Court Judge James R . Dabney that Lohan , 26 , had checked into Morningside Recovery in Newport Beach , CA , according to the Associated Press .
+0 34 9 1 3 NA 24 24 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 10 0 1 NA 2 3 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 10 1 1 NA 6 6 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 11 0 1 NA 2 3 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 11 1 3 NA 24 24 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 12 0 3 NA 6 7 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 12 1 1 NA 6 6 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 13 0 3 NA 6 7 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 13 1 3 NA 24 24 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 14 0 1 NA 7 7 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 14 1 1 NA 6 6 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 15 0 1 NA 7 7 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 15 1 3 NA 24 24 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 16 0 3 NA 31 31 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 16 1 1 NA 6 6 Lindsay Lohan Checks Into Court - Ordered Rehab
+0 34 17 0 3 NA 31 31 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 34 17 1 3 NA 24 24 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+0 105 18 0 12 NA 19 19 This is the fifth successful anti - piracy operation conducted by Sukanya , in the course of her ongoing patrol mission in the Gulf of Aden , which commenced in September .
+0 105 18 1 12 NA 8 8 This is the fifth successful anti - piracy operation conducted by Sukanya , in the course of her ongoing patrol mission in the Gulf of Aden , which commenced in September .
+0 105 19 0 3 NA 11 11 Indian Naval Ship Sukanya , presently deployed on anti - piracy patrols in the Gulf of Aden under the operational control of the Western Naval Command , found herself once again in the thick of things , thwarting a multiple - boat piracy attack on 10 Nov 11 .
+0 105 19 1 12 NA 8 8 This is the fifth successful anti - piracy operation conducted by Sukanya , in the course of her ongoing patrol mission in the Gulf of Aden , which commenced in September .
+0 113 20 0 3 NA 1 1 A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+0 113 20 1 1 NA 3 3 Historic dairy building destroyed by fire
+0 113 21 0 3 NA 1 1 A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+0 113 21 1 3 NA 4 4 A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+0 113 22 0 1 NA 5 5 Historic dairy building destroyed by fire
+0 113 22 1 1 NA 3 3 Historic dairy building destroyed by fire
+0 113 23 0 1 NA 5 5 Historic dairy building destroyed by fire
+0 113 23 1 3 NA 4 4 A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+0 211 24 0 4 NA 2 2 Gray was killed on March 9 by police who claim he pointed a gun at Sgt . Mourad Mourad and Officer Jovaniel Cordova before they opened fire .
+0 211 24 1 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 25 0 2 NA 3 3 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 25 1 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 26 0 13 NA 5 5 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 26 1 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 27 0 2 NA 7 7 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 27 1 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 28 0 4 NA 2 2 Gray was killed on March 9 by police who claim he pointed a gun at Sgt . Mourad Mourad and Officer Jovaniel Cordova before they opened fire .
+0 211 28 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 29 0 2 NA 3 3 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 29 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 30 0 13 NA 5 5 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 30 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 31 0 2 NA 7 7 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 31 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 32 0 4 NA 2 2 Gray was killed on March 9 by police who claim he pointed a gun at Sgt . Mourad Mourad and Officer Jovaniel Cordova before they opened fire .
+0 211 32 1 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 33 0 2 NA 3 3 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 33 1 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 34 0 13 NA 5 5 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 34 1 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 35 0 2 NA 7 7 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 35 1 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 36 0 4 NA 2 2 Gray was killed on March 9 by police who claim he pointed a gun at Sgt . Mourad Mourad and Officer Jovaniel Cordova before they opened fire .
+0 211 36 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 37 0 4 NA 2 2 Gray was killed on March 9 by police who claim he pointed a gun at Sgt . Mourad Mourad and Officer Jovaniel Cordova before they opened fire .
+0 211 37 1 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 38 0 2 NA 3 3 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 38 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 39 0 2 NA 3 3 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 39 1 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 40 0 13 NA 5 5 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 40 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 41 0 13 NA 5 5 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 41 1 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 42 0 2 NA 7 7 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 42 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 43 0 2 NA 7 7 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 43 1 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 44 0 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 44 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 45 0 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 45 1 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 46 0 3 NA 17 17 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 46 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 47 0 3 NA 17 17 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 47 1 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 48 0 3 NA 19 19 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 48 1 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 49 0 3 NA 19 19 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 49 1 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 50 0 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 50 1 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 51 0 3 NA 17 17 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 51 1 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 52 0 3 NA 19 19 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 52 1 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 53 0 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 53 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 54 0 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 54 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 55 0 3 NA 17 17 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 55 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 56 0 3 NA 17 17 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 56 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 57 0 3 NA 19 19 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 57 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 58 0 3 NA 19 19 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 58 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 59 0 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 59 1 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 60 0 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 60 1 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 61 0 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 61 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 62 0 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 62 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 63 0 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 63 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 64 0 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 64 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+0 211 65 0 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 65 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 66 0 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 66 1 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 67 0 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 67 1 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+0 211 68 0 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 211 68 1 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+0 221 69 0 1 NA 0 0 Anger in East Flatbush Persists Over Teenager ’ s Killing by the Police
+0 221 69 1 1 NA 9 9 Anger in East Flatbush Persists Over Teenager ’ s Killing by the Police
+0 221 70 0 4 NA 3 3 Then came the anger : a Monday evening vigil marred by an unruly young mob thrashing its way through local businesses ; a second protest the next night ; and another on Wednesday night , after which , the police said , someone hit an officer in the face with a brick , another brick was thrown through the window of a police van , and there were 46 arrests — mostly for disorderly conduct .
+0 221 70 1 1 NA 9 9 Anger in East Flatbush Persists Over Teenager ’ s Killing by the Police
+0 221 71 0 3 NA 8 8 First came the shooting : an armed teenager killed by police officers on a darkened Brooklyn street .
+0 221 71 1 3 NA 3 3 First came the shooting : an armed teenager killed by police officers on a darkened Brooklyn street .
+0 221 72 0 1 NA 9 9 Anger in East Flatbush Persists Over Teenager ’ s Killing by the Police
+0 221 72 1 3 NA 3 3 First came the shooting : an armed teenager killed by police officers on a darkened Brooklyn street .
+0 320 73 0 8 NA 19 19 He ’ d been dropped off by helicopter with a group and was walking to a hut when he fell , sliding down a steep slope and over a cliff .
+0 320 73 1 6 NA 10 10 On Friday , 36 - year - old Duncan Rait died after slipping and falling about 200ft from a ridge near the Tasman Glacier .
+0 320 74 0 6 NA 14 14 On Friday , 36 - year - old Duncan Rait died after slipping and falling about 200ft from a ridge near the Tasman Glacier .
+0 320 74 1 6 NA 10 10 On Friday , 36 - year - old Duncan Rait died after slipping and falling about 200ft from a ridge near the Tasman Glacier .
+0 320 75 0 2 NA 7 7 One Australian and one English climber have fallen to their deaths in New Zealand .
+0 320 75 1 1 NA 7 7 English and Australian climbers fall to their deaths in New Zealand mountains
+0 320 76 0 2 NA 7 7 One Australian and one English climber have fallen to their deaths in New Zealand .
+0 320 76 1 2 NA 10 10 One Australian and one English climber have fallen to their deaths in New Zealand .
+0 320 77 0 1 NA 4 4 English and Australian climbers fall to their deaths in New Zealand mountains
+0 320 77 1 1 NA 7 7 English and Australian climbers fall to their deaths in New Zealand mountains
+0 320 78 0 1 NA 4 4 English and Australian climbers fall to their deaths in New Zealand mountains
+0 320 78 1 2 NA 10 10 One Australian and one English climber have fallen to their deaths in New Zealand .
+0 342 79 0 3 NA 11 11 The heist near the upscale Place Vendome is the latest to hit France after a spate of high - profile robberies in the southern resort of Cannes .
+0 342 79 1 1 NA 8 8 Paris hit by 2 mn - euro jewelry heist
+0 342 80 0 3 NA 11 11 The heist near the upscale Place Vendome is the latest to hit France after a spate of high - profile robberies in the southern resort of Cannes .
+0 342 80 1 3 NA 1 1 The heist near the upscale Place Vendome is the latest to hit France after a spate of high - profile robberies in the southern resort of Cannes .
+0 342 81 0 1 NA 1 1 Paris hit by 2 mn - euro jewelry heist
+0 342 81 1 1 NA 8 8 Paris hit by 2 mn - euro jewelry heist
+0 342 82 0 1 NA 1 1 Paris hit by 2 mn - euro jewelry heist
+0 342 82 1 3 NA 1 1 The heist near the upscale Place Vendome is the latest to hit France after a spate of high - profile robberies in the southern resort of Cannes .
+0 377 83 0 1 NA 16 16 Bush tweaked his left knee last Thursday and coach Sean Payton said the Saints decided to put the running back on IR after determining that he would be unavailable for the team 's final two games .
+0 377 83 1 0 NA 9 10 The Saints have placed Bush ( knee ) on injured reserve , the Baton Rouge Advocate reports .
+0 377 84 0 1 NA 16 16 Bush tweaked his left knee last Thursday and coach Sean Payton said the Saints decided to put the running back on IR after determining that he would be unavailable for the team 's final two games .
+0 377 84 1 1 NA 21 21 Bush tweaked his left knee last Thursday and coach Sean Payton said the Saints decided to put the running back on IR after determining that he would be unavailable for the team 's final two games .
+0 377 85 0 0 NA 3 3 The Saints have placed Bush ( knee ) on injured reserve , the Baton Rouge Advocate reports .
+0 377 85 1 0 NA 9 10 The Saints have placed Bush ( knee ) on injured reserve , the Baton Rouge Advocate reports .
+0 377 86 0 0 NA 3 3 The Saints have placed Bush ( knee ) on injured reserve , the Baton Rouge Advocate reports .
+0 377 86 1 1 NA 21 21 Bush tweaked his left knee last Thursday and coach Sean Payton said the Saints decided to put the running back on IR after determining that he would be unavailable for the team 's final two games .
+0 418 87 0 1 NA 25 26 Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+0 418 87 1 1 NA 3 3 Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+0 418 88 0 1 NA 25 26 Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+0 418 88 1 2 NA 25 25 The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+0 418 89 0 2 NA 13 13 The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+0 418 89 1 1 NA 3 3 Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+0 418 90 0 2 NA 13 13 The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+0 418 90 1 2 NA 25 25 The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+0 469 91 0 6 NA 35 35 Luck threw for 205 yards Sunday , and his 7 - yard touchdown pass to Reggie Wayne on third - and - goal late in the fourth quarter gave the Colts a 20 - 13 victory over the Kansas City Chiefs .
+0 469 91 1 1 NA 7 7 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 92 0 1 NA 1 1 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 92 1 1 NA 7 7 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 93 0 6 NA 35 35 Luck threw for 205 yards Sunday , and his 7 - yard touchdown pass to Reggie Wayne on third - and - goal late in the fourth quarter gave the Colts a 20 - 13 victory over the Kansas City Chiefs .
+0 469 93 1 1 NA 8 8 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 94 0 1 NA 1 1 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 94 1 1 NA 8 8 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 95 0 3 NA 1 1 The expectations placed upon Andrew Luck almost seemed unfair .
+0 469 95 1 5 NA 9 9 Now , after guiding the Colts back to the playoffs - and breaking Cam Newton's single - season passing record for a first - year player - it's safe to say Luck exceeded just about all of them .
+0 469 96 0 5 NA 37 37 Now , after guiding the Colts back to the playoffs - and breaking Cam Newton's single - season passing record for a first - year player - it's safe to say Luck exceeded just about all of them .
+0 469 96 1 5 NA 9 9 Now , after guiding the Colts back to the playoffs - and breaking Cam Newton's single - season passing record for a first - year player - it's safe to say Luck exceeded just about all of them .
+0 469 97 0 1 NA 7 7 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 97 1 1 NA 8 8 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 98 0 1 NA 7 7 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 98 1 7 NA 5 5 That put them into the playoffs without worrying about anybody else .
+0 469 99 0 7 NA 1 1 That put them into the playoffs without worrying about anybody else .
+0 469 99 1 1 NA 8 8 Colts beat Chiefs 20 - 13 to clinch playoff berth
+0 469 100 0 7 NA 1 1 That put them into the playoffs without worrying about anybody else .
+0 469 100 1 7 NA 5 5 That put them into the playoffs without worrying about anybody else .
+0 475 101 0 1 NA 2 2 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 101 1 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 102 0 1 NA 2 2 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 102 1 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 103 0 3 NA 5 5 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 103 1 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 104 0 3 NA 5 5 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 104 1 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 105 0 3 NA 13 14 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 105 1 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 106 0 3 NA 13 14 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 106 1 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 107 0 1 NA 2 2 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 107 1 3 NA 20 20 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 108 0 1 NA 2 2 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 108 1 1 NA 8 8 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 109 0 1 NA 2 2 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 109 1 3 NA 32 32 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 110 0 3 NA 5 5 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 110 1 3 NA 20 20 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 111 0 3 NA 5 5 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 111 1 1 NA 8 8 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 112 0 3 NA 5 5 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 112 1 3 NA 32 32 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 113 0 3 NA 13 14 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 113 1 3 NA 20 20 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 114 0 3 NA 13 14 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 114 1 1 NA 8 8 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 115 0 3 NA 13 14 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 115 1 3 NA 32 32 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 116 0 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 116 1 3 NA 20 20 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 117 0 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 117 1 1 NA 8 8 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 118 0 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 118 1 3 NA 32 32 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 119 0 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 119 1 3 NA 20 20 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 120 0 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 120 1 1 NA 8 8 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+0 475 121 0 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 475 121 1 3 NA 32 32 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+0 477 122 0 1 NA 1 1 Colts Beat Chiefs 20 - 13 To Clinch Playoff Berth
+0 477 122 1 1 NA 8 8 Colts Beat Chiefs 20 - 13 To Clinch Playoff Berth
+0 477 123 0 6 NA 35 35 Luck threw for 205 yards Sunday , and his 7 - yard touchdown pass to Reggie Wayne on third - and - goal late in the fourth quarter gave the Colts a 20 - 13 victory over the Kansas City Chiefs .
+0 477 123 1 1 NA 8 8 Colts Beat Chiefs 20 - 13 To Clinch Playoff Berth
+0 477 124 0 3 NA 1 1 The expectations placed upon Andrew Luck almost seemed unfair .
+0 477 124 1 5 NA 9 9 Now , after guiding the Colts back to the playoffs – and breaking Cam Newton's single - season passing record for a first - year player – it's safe to say Luck exceeded just about all of them .
+0 477 125 0 5 NA 37 37 Now , after guiding the Colts back to the playoffs – and breaking Cam Newton's single - season passing record for a first - year player – it's safe to say Luck exceeded just about all of them .
+0 477 125 1 5 NA 9 9 Now , after guiding the Colts back to the playoffs – and breaking Cam Newton's single - season passing record for a first - year player – it's safe to say Luck exceeded just about all of them .
+0 491 126 0 6 NA 22 22 Described as a 6 - feet tall and weighing approximately 200 pounds , Lyons warned that Comeaux knows the area where he escaped well and could have family nearby .
+0 491 126 1 4 NA 18 18 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+0 491 127 0 4 NA 47 47 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+0 491 127 1 4 NA 18 18 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+0 491 128 0 5 NA 24 24 Lyons said that Comeaux used a wheelchair in prison – he "claimed it was necessary for his mobility" – and added , "Since he fled on foot , that's obviously in question . "
+0 491 128 1 4 NA 18 18 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+0 491 129 0 3 NA 24 24 A convicted child molester who was supposedly confined to a wheelchair overpowered two prison guards today , handcuffed them , stole their weapons and walked off wearing one of their uniforms .
+0 491 129 1 4 NA 18 18 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+0 491 130 0 1 NA 8 10 Convicted Child Molestor Arcade Joseph Comeaux Jr . On The Lam in Texas
+0 491 130 1 4 NA 18 18 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+0 534 131 0 2 NA 4 5 Doug McDermott got a scoring record Friday , Will Artino got a chance to showcase his skills on the big stage and Gregory Echenique got mad .
+0 534 131 1 2 NA 2 2 Doug McDermott got a scoring record Friday , Will Artino got a chance to showcase his skills on the big stage and Gregory Echenique got mad .
+0 534 132 0 2 NA 4 5 Doug McDermott got a scoring record Friday , Will Artino got a chance to showcase his skills on the big stage and Gregory Echenique got mad .
+0 534 132 1 20 NA 7 7 Doug McDermott finished with 23 points , setting the school scoring record when he got his 11th point on a free throw with 4 : 43 left in the first half .
+0 534 133 0 20 NA 10 11 Doug McDermott finished with 23 points , setting the school scoring record when he got his 11th point on a free throw with 4 : 43 left in the first half .
+0 534 133 1 2 NA 2 2 Doug McDermott got a scoring record Friday , Will Artino got a chance to showcase his skills on the big stage and Gregory Echenique got mad .
+0 534 134 0 20 NA 10 11 Doug McDermott finished with 23 points , setting the school scoring record when he got his 11th point on a free throw with 4 : 43 left in the first half .
+0 534 134 1 20 NA 7 7 Doug McDermott finished with 23 points , setting the school scoring record when he got his 11th point on a free throw with 4 : 43 left in the first half .
+0 534 135 0 3 NA 12 12 The first two factored heavily into Creighton ’ s 65 - 53 victory against Drake in the quarterfinals of the Missouri Valley Conference tournament , but the last one might have been the deciding factor in moving the Bluejays along to Saturday ’ s semifinals .
+0 534 135 1 1 NA 4 5 McDermott fuels Bluejays in Valley tournament win
+0 534 136 0 3 NA 12 12 The first two factored heavily into Creighton ’ s 65 - 53 victory against Drake in the quarterfinals of the Missouri Valley Conference tournament , but the last one might have been the deciding factor in moving the Bluejays along to Saturday ’ s semifinals .
+0 534 136 1 3 NA 20 23 The first two factored heavily into Creighton ’ s 65 - 53 victory against Drake in the quarterfinals of the Missouri Valley Conference tournament , but the last one might have been the deciding factor in moving the Bluejays along to Saturday ’ s semifinals .
+0 534 137 0 1 NA 6 6 McDermott fuels Bluejays in Valley tournament win
+0 534 137 1 1 NA 4 5 McDermott fuels Bluejays in Valley tournament win
+0 534 138 0 1 NA 6 6 McDermott fuels Bluejays in Valley tournament win
+0 534 138 1 3 NA 20 23 The first two factored heavily into Creighton ’ s 65 - 53 victory against Drake in the quarterfinals of the Missouri Valley Conference tournament , but the last one might have been the deciding factor in moving the Bluejays along to Saturday ’ s semifinals .
+0 571 139 0 3 NA 12 12 A 23 - year - old man has been charged with the murders of his mother and sister .
+0 571 139 1 1 NA 1 1 Man charged with murdering mother and sister in Cumbria
+0 571 140 0 3 NA 12 12 A 23 - year - old man has been charged with the murders of his mother and sister .
+0 571 140 1 3 NA 9 9 A 23 - year - old man has been charged with the murders of his mother and sister .
+0 571 141 0 1 NA 3 3 Man charged with murdering mother and sister in Cumbria
+0 571 141 1 1 NA 1 1 Man charged with murdering mother and sister in Cumbria
+0 571 142 0 1 NA 3 3 Man charged with murdering mother and sister in Cumbria
+0 571 142 1 3 NA 9 9 A 23 - year - old man has been charged with the murders of his mother and sister .
+0 571 143 0 4 NA 8 8 John Jenkin is due in court over the murders of Alice McMeekin , 58 , and Kathryn Jenkin , 20 .
+0 571 143 1 1 NA 1 1 Man charged with murdering mother and sister in Cumbria
+0 571 144 0 4 NA 8 8 John Jenkin is due in court over the murders of Alice McMeekin , 58 , and Kathryn Jenkin , 20 .
+0 571 144 1 3 NA 9 9 A 23 - year - old man has been charged with the murders of his mother and sister .
+0 576 145 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 145 1 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 146 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 146 1 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 147 0 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 147 1 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 148 0 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 148 1 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 149 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 149 1 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 150 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 150 1 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 151 0 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 151 1 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 152 0 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 152 1 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 153 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 153 1 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 154 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 154 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 155 0 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 155 1 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 156 0 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 156 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 157 0 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 157 1 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 158 0 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 158 1 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 159 0 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 159 1 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 160 0 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 160 1 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 161 0 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 161 1 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 162 0 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 162 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 163 0 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 163 1 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 164 0 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 164 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 165 0 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 165 1 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 166 0 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 166 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 576 167 0 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 167 1 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 168 0 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+0 576 168 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+0 593 169 0 4 NA 35 35 Gupta would n't comment to me -- while not denying the story -- but confirmed on his Twitter feed that he `` has been approached by the Obama administration about the U.S. surgeon general 's post . ''
+0 593 169 1 0 NA 6 6 I confirmed yesterday that Obama has offered the job and that Gupta had all but officially accepted .
+0 593 170 0 4 NA 35 35 Gupta would n't comment to me -- while not denying the story -- but confirmed on his Twitter feed that he `` has been approached by the Obama administration about the U.S. surgeon general 's post . ''
+0 593 170 1 4 NA 24 24 Gupta would n't comment to me -- while not denying the story -- but confirmed on his Twitter feed that he `` has been approached by the Obama administration about the U.S. surgeon general 's post . ''
+0 593 171 0 0 NA 8 8 I confirmed yesterday that Obama has offered the job and that Gupta had all but officially accepted .
+0 593 171 1 0 NA 6 6 I confirmed yesterday that Obama has offered the job and that Gupta had all but officially accepted .
+0 593 172 0 0 NA 8 8 I confirmed yesterday that Obama has offered the job and that Gupta had all but officially accepted .
+0 593 172 1 4 NA 24 24 Gupta would n't comment to me -- while not denying the story -- but confirmed on his Twitter feed that he `` has been approached by the Obama administration about the U.S. surgeon general 's post . ''
+0 624 173 0 2 NA 2 2 Jackson was arrested on the DUI charge early Tuesday morning by the California Highway Patrol .
+0 624 173 1 2 NA 5 5 Jackson was arrested on the DUI charge early Tuesday morning by the California Highway Patrol .
+0 624 174 0 2 NA 2 2 Jackson was arrested on the DUI charge early Tuesday morning by the California Highway Patrol .
+0 624 174 1 1 NA 5 8 An arrest for suspicion of driving under the influence will not affect the playing status of San Diego Chargers wide receiver Vincent Jackson for Sunday 's divisional playoff game at Pittsburgh .
+0 624 175 0 1 NA 1 1 An arrest for suspicion of driving under the influence will not affect the playing status of San Diego Chargers wide receiver Vincent Jackson for Sunday 's divisional playoff game at Pittsburgh .
+0 624 175 1 2 NA 5 5 Jackson was arrested on the DUI charge early Tuesday morning by the California Highway Patrol .
+0 624 176 0 1 NA 1 1 An arrest for suspicion of driving under the influence will not affect the playing status of San Diego Chargers wide receiver Vincent Jackson for Sunday 's divisional playoff game at Pittsburgh .
+0 624 176 1 1 NA 5 8 An arrest for suspicion of driving under the influence will not affect the playing status of San Diego Chargers wide receiver Vincent Jackson for Sunday 's divisional playoff game at Pittsburgh .
+0 636 177 0 0 NA 5 5 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 177 1 3 NA 11 11 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 178 0 0 NA 5 5 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 178 1 0 NA 7 7 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 179 0 3 NA 8 8 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 179 1 3 NA 11 11 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 180 0 3 NA 8 8 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 180 1 0 NA 7 7 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 181 0 0 NA 5 5 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 181 1 0 NA 9 10 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 182 0 0 NA 5 5 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 182 1 3 NA 13 14 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 183 0 3 NA 8 8 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 183 1 0 NA 9 10 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 184 0 3 NA 8 8 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 184 1 3 NA 13 14 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 185 0 3 NA 11 11 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 185 1 0 NA 9 10 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 186 0 3 NA 11 11 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 186 1 3 NA 13 14 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 636 187 0 0 NA 7 7 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 187 1 0 NA 9 10 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 188 0 0 NA 7 7 San Diego 's Jackson is arrested on suspicion of drunk driving
+0 636 188 1 3 NA 13 14 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+0 664 189 0 5 NA 9 9 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 189 1 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 190 0 5 NA 9 9 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 190 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 191 0 4 NA 6 6 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 191 1 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 192 0 4 NA 6 6 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 192 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 193 0 4 NA 4 4 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 193 1 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 194 0 4 NA 4 4 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 194 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 195 0 5 NA 7 7 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 195 1 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 196 0 5 NA 7 7 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 196 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 197 0 1 NA 0 0 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 197 1 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 198 0 1 NA 0 0 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 198 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 199 0 3 NA 1 6 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 199 1 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 200 0 3 NA 1 6 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 200 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 201 0 5 NA 9 9 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 201 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 202 0 5 NA 9 9 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 202 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 203 0 4 NA 6 6 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 203 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 204 0 4 NA 6 6 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 204 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 205 0 4 NA 4 4 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 205 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 206 0 4 NA 4 4 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+0 664 206 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 207 0 5 NA 7 7 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 207 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 208 0 5 NA 7 7 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+0 664 208 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 209 0 1 NA 0 0 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 209 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 210 0 1 NA 0 0 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 210 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 211 0 3 NA 1 6 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 211 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 212 0 3 NA 1 6 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 212 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 213 0 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 213 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 214 0 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 214 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 664 215 0 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 215 1 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 216 0 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+0 664 216 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+0 761 217 0 3 NA 15 15 Apple's MacBook line , particularly certain portions of it , have been overdue for a refresh .
+0 761 217 1 5 NA 14 14 During the opening keynote of Apple's WWDC event Monday morning , Apple's Phil Schiller unveiled updates to both the MacBook Air and the MacBook Pro , as well as an entirely new next - generation MacBook Pro with a Retina Display .
+0 761 218 0 5 NA 15 15 During the opening keynote of Apple's WWDC event Monday morning , Apple's Phil Schiller unveiled updates to both the MacBook Air and the MacBook Pro , as well as an entirely new next - generation MacBook Pro with a Retina Display .
+0 761 218 1 5 NA 14 14 During the opening keynote of Apple's WWDC event Monday morning , Apple's Phil Schiller unveiled updates to both the MacBook Air and the MacBook Pro , as well as an entirely new next - generation MacBook Pro with a Retina Display .
+0 770 219 0 0 NA 17 17 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+0 770 219 1 0 NA 29 29 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+0 770 220 0 0 NA 17 17 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+0 770 220 1 2 NA 8 8 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+0 770 221 0 2 NA 30 30 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+0 770 221 1 0 NA 29 29 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+0 770 222 0 2 NA 30 30 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+0 770 222 1 2 NA 8 8 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+0 770 223 0 30 NA 2 2 Explaining its attack on al-Fahora school , the Israeli military claimed that a mortar was fired from the playground , and it responded with a single shell whichkilled known Hamas fighters ; the resulting explosion was compounded because Hamas `` booby-trapped the school '' .
+0 770 223 1 0 NA 29 29 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+0 770 224 0 30 NA 2 2 Explaining its attack on al-Fahora school , the Israeli military claimed that a mortar was fired from the playground , and it responded with a single shell whichkilled known Hamas fighters ; the resulting explosion was compounded because Hamas `` booby-trapped the school '' .
+0 770 224 1 2 NA 8 8 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+0 853 225 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 225 1 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 226 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 226 1 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 227 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 227 1 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 228 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 228 1 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 229 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 229 1 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 230 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 230 1 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 231 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 231 1 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 232 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 232 1 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 233 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 233 1 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 234 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 234 1 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 235 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 235 1 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 236 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 236 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 237 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 237 1 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 238 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 238 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 239 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 239 1 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 240 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 240 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 241 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 241 1 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 242 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 242 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 243 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 243 1 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 244 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 244 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 245 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 245 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 246 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 246 1 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 247 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 247 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 248 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 248 1 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 249 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 249 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 250 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 250 1 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 251 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 251 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 252 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 252 1 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 253 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 253 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 254 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 254 1 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 255 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 255 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 256 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 256 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 257 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 257 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 258 0 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 258 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 259 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 259 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 260 0 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+0 853 260 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 261 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 261 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 262 0 1 NA 2 2 HP to acquire green consultancy EYP
+0 853 262 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 263 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 263 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 264 0 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 264 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 265 0 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 265 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 266 0 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 266 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 267 0 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 267 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 268 0 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 268 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 269 0 1 NA 3 4 HP to acquire green consultancy EYP
+0 853 269 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 270 0 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 270 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 271 0 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 271 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 272 0 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 272 1 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 273 0 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 273 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 274 0 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 274 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 275 0 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 275 1 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+0 853 276 0 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 276 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 277 0 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 277 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 853 278 0 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+0 853 278 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+0 854 279 0 3 NA 15 15 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+0 854 279 1 2 NA 4 4 HP lands green datacenter consultant EYP
+0 854 280 0 3 NA 15 15 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+0 854 280 1 3 NA 23 23 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+0 854 281 0 2 NA 1 1 HP lands green datacenter consultant EYP
+0 854 281 1 2 NA 4 4 HP lands green datacenter consultant EYP
+0 854 282 0 2 NA 1 1 HP lands green datacenter consultant EYP
+0 854 282 1 3 NA 23 23 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+0 854 283 0 5 NA 5 5 The financial details of the acquisition were not disclosed .
+0 854 283 1 2 NA 4 4 HP lands green datacenter consultant EYP
+0 854 284 0 5 NA 5 5 The financial details of the acquisition were not disclosed .
+0 854 284 1 3 NA 23 23 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+0 859 285 0 2 NA 16 16 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 285 1 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 286 0 2 NA 37 37 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 286 1 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 287 0 0 NA 17 17 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 287 1 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 288 0 0 NA 35 35 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 288 1 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 289 0 0 NA 17 17 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 289 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 290 0 0 NA 35 35 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 290 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 291 0 0 NA 17 17 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 291 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 292 0 0 NA 17 17 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 292 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 293 0 0 NA 35 35 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 293 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 294 0 0 NA 35 35 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 294 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 295 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 295 1 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 296 0 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+0 859 296 1 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 297 0 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 297 1 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 298 0 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 298 1 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 299 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 299 1 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 300 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 300 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 301 0 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+0 859 301 1 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 302 0 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+0 859 302 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 303 0 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 303 1 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 304 0 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 304 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 305 0 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 305 1 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 306 0 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 306 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 307 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 307 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 308 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 308 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 309 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 309 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 310 0 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+0 859 310 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 311 0 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+0 859 311 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 312 0 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+0 859 312 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 313 0 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 313 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 314 0 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 314 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 315 0 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 315 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 316 0 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 316 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 317 0 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 317 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 318 0 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+0 859 318 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 319 0 3 NA 13 13 In essence , the jury concluded that the circumstances surrounding Laci Peterson 's disappearance and death could not reasonably be explained in any other way but that Scott Peterson wanted her dead so he could continue and perhaps expand his secret life with Amber Frey .
+0 859 319 1 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 320 0 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 320 1 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 321 0 3 NA 13 13 In essence , the jury concluded that the circumstances surrounding Laci Peterson 's disappearance and death could not reasonably be explained in any other way but that Scott Peterson wanted her dead so he could continue and perhaps expand his secret life with Amber Frey .
+0 859 321 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 322 0 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 322 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 323 0 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 323 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 324 0 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 324 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 325 0 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 325 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 326 0 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 326 1 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 327 0 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 327 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+0 859 328 0 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 859 328 1 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+0 899 329 0 4 NA 28 28 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+0 899 329 1 1 NA 5 5 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 330 0 1 NA 3 3 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 330 1 1 NA 5 5 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 331 0 4 NA 28 28 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+0 899 331 1 4 NA 9 9 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+0 899 332 0 1 NA 3 3 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 332 1 4 NA 9 9 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+0 899 333 0 4 NA 28 28 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+0 899 333 1 1 NA 10 10 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 334 0 1 NA 3 3 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 334 1 1 NA 10 10 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 335 0 7 NA 8 8 With no deal in place for Ross to direct future films in the series , he is in a good position to ask for more money .
+0 899 335 1 7 NA 2 2 With no deal in place for Ross to direct future films in the series , he is in a good position to ask for more money .
+0 899 336 0 1 NA 5 5 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 336 1 7 NA 2 2 With no deal in place for Ross to direct future films in the series , he is in a good position to ask for more money .
+0 899 337 0 7 NA 8 8 With no deal in place for Ross to direct future films in the series , he is in a good position to ask for more money .
+0 899 337 1 1 NA 10 10 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 338 0 1 NA 5 5 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 899 338 1 1 NA 10 10 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+0 924 339 0 3 NA 10 13 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 339 1 3 NA 8 8 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 340 0 1 NA 2 2 Wladimir Klitschko retains belts
+0 924 340 1 3 NA 8 8 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 341 0 3 NA 10 13 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 341 1 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 342 0 1 NA 2 2 Wladimir Klitschko retains belts
+0 924 342 1 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 343 0 3 NA 8 8 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 343 1 5 NA 3 3 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+0 924 344 0 3 NA 8 8 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 344 1 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 345 0 5 NA 8 8 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+0 924 345 1 5 NA 3 3 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+0 924 346 0 5 NA 8 8 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+0 924 346 1 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 347 0 16 NA 9 9 The champion cornered Thompson toward the end of the sixth , and landed punches to the head though no single blow appeared to cause serious damage .
+0 924 347 1 5 NA 3 3 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+0 924 348 0 16 NA 9 9 The champion cornered Thompson toward the end of the sixth , and landed punches to the head though no single blow appeared to cause serious damage .
+0 924 348 1 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 349 0 15 NA 15 15 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 349 1 4 NA 16 16 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 350 0 4 NA 25 25 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 350 1 4 NA 16 16 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 351 0 15 NA 15 15 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 351 1 4 NA 29 29 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 352 0 15 NA 15 15 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 352 1 15 NA 10 10 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 353 0 15 NA 15 15 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 353 1 15 NA 14 14 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 354 0 4 NA 25 25 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 354 1 4 NA 29 29 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 355 0 4 NA 25 25 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 355 1 15 NA 10 10 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 356 0 4 NA 25 25 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 356 1 15 NA 14 14 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+0 924 357 0 5 NA 3 3 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+0 924 357 1 4 NA 29 29 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 358 0 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+0 924 358 1 4 NA 29 29 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 359 0 4 NA 16 16 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+0 924 359 1 4 NA 29 29 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .

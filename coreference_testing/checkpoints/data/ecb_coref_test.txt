@@ -1,0 +1,253 @@
+is_coref doc_id chain_index link_index sentence_index pos_tag start_word_index end_word_index sentence
+1 27 49 0 2 NA 2 2 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+1 27 49 1 2 NA 9 9 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+1 27 50 0 2 NA 15 16 In a statement from her people , it was confirmed , `` Tara Reid has checked herself into Promises Treatment Center . ''
+1 27 50 1 1 NA 19 20 The actress who is known more for staggering around town than actually appearing on the big screen , finally checked into rehab .
+1 34 63 0 4 NA 19 20 Attorney Mark Jay Heller told LA Superior Court Judge James R . Dabney that Lohan , 26 , had checked into Morningside Recovery in Newport Beach , CA , according to the Associated Press .
+1 34 63 1 1 NA 2 3 Lindsay Lohan Checks Into Court - Ordered Rehab
+1 34 63 2 3 NA 6 7 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+1 34 64 0 1 NA 7 7 Lindsay Lohan Checks Into Court - Ordered Rehab
+1 34 64 1 3 NA 31 31 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+1 34 65 0 1 NA 6 6 Lindsay Lohan Checks Into Court - Ordered Rehab
+1 34 65 1 3 NA 24 24 Lindsay Lohan's lawyer says the actress checked into rehab on Thursday , but the facility has not been officially sanctioned by the court that ordered her to serve 90 days of treatment .
+1 37 70 0 3 NA 3 3 Actress Tara Reid entered well-known Malibu rehab center Promises Treatment Center , reportedly of her own desire .
+1 37 70 1 4 NA 5 7 The specific reason behind her checking in to the facility is currently unknown to the public .
+1 105 116 0 12 NA 19 19 This is the fifth successful anti - piracy operation conducted by Sukanya , in the course of her ongoing patrol mission in the Gulf of Aden , which commenced in September .
+1 105 116 1 3 NA 11 11 Indian Naval Ship Sukanya , presently deployed on anti - piracy patrols in the Gulf of Aden under the operational control of the Western Naval Command , found herself once again in the thick of things , thwarting a multiple - boat piracy attack on 10 Nov 11 .
+1 105 117 0 2 NA 2 2 Anti Piracy Ops by INS Sukanya
+1 105 117 1 12 NA 8 8 This is the fifth successful anti - piracy operation conducted by Sukanya , in the course of her ongoing patrol mission in the Gulf of Aden , which commenced in September .
+1 113 120 0 3 NA 1 1 A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+1 113 120 1 1 NA 5 5 Historic dairy building destroyed by fire
+1 113 121 0 1 NA 3 3 Historic dairy building destroyed by fire
+1 113 121 1 3 NA 4 4 A fire on Tuesday destroyed Palmer's historic Matanuska Maid Dairy warehouse building , which was built in the 1930s when colonists arrived from the Midwest to try their hand at farming in Alaska .
+1 211 225 0 4 NA 2 2 Gray was killed on March 9 by police who claim he pointed a gun at Sgt . Mourad Mourad and Officer Jovaniel Cordova before they opened fire .
+1 211 225 1 2 NA 3 3 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+1 211 225 2 13 NA 5 5 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+1 211 225 3 2 NA 7 7 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+1 211 226 0 2 NA 0 0 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+1 211 226 1 3 NA 17 17 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+1 211 226 2 3 NA 19 19 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+1 211 227 0 2 NA 1 1 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+1 211 227 1 3 NA 21 21 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+1 211 228 0 3 NA 40 40 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+1 211 228 1 13 NA 28 28 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+1 211 229 0 3 NA 3 3 In the week following the fatal shooting of 16 - year - old Kimani Gray , several protests and riots have erupted in the teen's Brooklyn neighborhood as the cops involved have come under scrutiny for previous reported civil rights violations .
+1 211 229 1 2 NA 2 2 Riots Erupt Following Death of Brooklyn Teen Killed By Police
+1 211 229 2 13 NA 3 3 In the days following Gray's death , it's been revealed that both Mourad and Cordova have reportedly been named in five federal lawsuits with plaintiffs alleging civil rights violations .
+1 221 244 0 1 NA 0 0 Anger in East Flatbush Persists Over Teenager ’ s Killing by the Police
+1 221 244 1 4 NA 3 3 Then came the anger : a Monday evening vigil marred by an unruly young mob thrashing its way through local businesses ; a second protest the next night ; and another on Wednesday night , after which , the police said , someone hit an officer in the face with a brick , another brick was thrown through the window of a police van , and there were 46 arrests — mostly for disorderly conduct .
+1 221 245 0 3 NA 8 8 First came the shooting : an armed teenager killed by police officers on a darkened Brooklyn street .
+1 221 245 1 1 NA 9 9 Anger in East Flatbush Persists Over Teenager ’ s Killing by the Police
+1 221 246 0 3 NA 3 3 First came the shooting : an armed teenager killed by police officers on a darkened Brooklyn street .
+1 221 246 1 9 NA 8 8 The police said that two plainclothes officers fatally shot the teenager , Kimani Gray , just before 11 : 30 p . m . on Saturday after he brandished a revolver and pointed it at them .
+1 311 432 0 1 NA 9 9 Murder trial ordered for woman accused in Kraft plant shootings
+1 311 432 1 8 NA 18 18 Hiller told homicide detectives that her mounting frustration finally culminated in September , when she went on a shooting rampage through the Kraft Foods plant in Northeast Philadelphia , where she had worked for 15 years .
+1 311 432 2 8 NA 19 19 Hiller told homicide detectives that her mounting frustration finally culminated in September , when she went on a shooting rampage through the Kraft Foods plant in Northeast Philadelphia , where she had worked for 15 years .
+1 311 432 3 38 NA 12 13 She said she sought out the three coworkers from her shift and opened fire .
+1 320 443 0 8 NA 19 19 He ’ d been dropped off by helicopter with a group and was walking to a hut when he fell , sliding down a steep slope and over a cliff .
+1 320 443 1 6 NA 14 14 On Friday , 36 - year - old Duncan Rait died after slipping and falling about 200ft from a ridge near the Tasman Glacier .
+1 320 444 0 2 NA 7 7 One Australian and one English climber have fallen to their deaths in New Zealand .
+1 320 444 1 1 NA 4 4 English and Australian climbers fall to their deaths in New Zealand mountains
+1 320 445 0 1 NA 7 7 English and Australian climbers fall to their deaths in New Zealand mountains
+1 320 445 1 2 NA 10 10 One Australian and one English climber have fallen to their deaths in New Zealand .
+1 320 446 0 6 NA 10 10 On Friday , 36 - year - old Duncan Rait died after slipping and falling about 200ft from a ridge near the Tasman Glacier .
+1 320 446 1 9 NA 19 19 Gaskin said that other climbers attempted to rescue Raite by taking him down the glacier , but that he died on the way down .
+1 342 464 0 2 NA 2 2 Four men rammed their car into an upmarket jewelry store in central Paris on Monday , smashing the shop window and making off with a two - million - euro ( $2 . 6 - million ) booty , a police source said .
+1 342 464 1 4 NA 13 13 The police source , who wished to remain anonymous , said the men drove a large four - by - four car into the store in the early hours of the morning and grabbed jewelry and luxury watches worth an estimated two million euros .
+1 342 465 0 3 NA 11 11 The heist near the upscale Place Vendome is the latest to hit France after a spate of high - profile robberies in the southern resort of Cannes .
+1 342 465 1 1 NA 1 1 Paris hit by 2 mn - euro jewelry heist
+1 342 466 0 1 NA 8 8 Paris hit by 2 mn - euro jewelry heist
+1 342 466 1 3 NA 1 1 The heist near the upscale Place Vendome is the latest to hit France after a spate of high - profile robberies in the southern resort of Cannes .
+1 377 506 0 1 NA 16 16 Bush tweaked his left knee last Thursday and coach Sean Payton said the Saints decided to put the running back on IR after determining that he would be unavailable for the team 's final two games .
+1 377 506 1 0 NA 3 3 The Saints have placed Bush ( knee ) on injured reserve , the Baton Rouge Advocate reports .
+1 377 507 0 0 NA 9 10 The Saints have placed Bush ( knee ) on injured reserve , the Baton Rouge Advocate reports .
+1 377 507 1 1 NA 21 21 Bush tweaked his left knee last Thursday and coach Sean Payton said the Saints decided to put the running back on IR after determining that he would be unavailable for the team 's final two games .
+1 418 564 0 1 NA 25 26 Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+1 418 564 1 2 NA 13 13 The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+1 418 565 0 1 NA 3 3 Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+1 418 565 1 2 NA 25 25 The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+1 441 594 0 2 NA 52 52 W. Mark Felt , the former FBI official who ended one of the United States ' most intriguing political mysteries when he identified himself as `` Deep Throat '' -- the nickname for the anonymous source who helped guide The Washington Post 's Pulitzer Prize-winning investigation into the Watergate scandal -- has died .
+1 441 594 1 4 NA 22 22 A controversial figure who was later convicted of authorizing illegal activities in pursuit of members of the radical Weather Underground , Felt died of heart failure Thursday at his home in Santa Rosa , Calif . , his grandson Rob Jones said .
+1 455 614 0 6 NA 4 4 The coroner believes LaRue died Saturday , July 24 , 2004 , of natural causes .
+1 455 614 1 3 NA 38 38 Fred LaRue , a high - ranking Nixon administration official who served a 4 - 1 / 2 - month prison term for his role in Watergate and was among those rumored to be Deep Throat , has died .
+1 464 631 0 4 NA 1 1 They won without receiver Marvin Harrison ( hamstring ) , running back Joseph Addai ( shoulder ) and linebacker Gary Brackett ( leg ) .
+1 464 631 1 3 NA 13 13 Manning threw for 364 yards and three touchdowns , and the visiting Colts secured the No. 5 seed in the AFC playoffs with a 31-24 victory over the Jaguars on Thursday night .
+1 469 639 0 6 NA 35 35 Luck threw for 205 yards Sunday , and his 7 - yard touchdown pass to Reggie Wayne on third - and - goal late in the fourth quarter gave the Colts a 20 - 13 victory over the Kansas City Chiefs .
+1 469 639 1 1 NA 1 1 Colts beat Chiefs 20 - 13 to clinch playoff berth
+1 469 640 0 3 NA 1 1 The expectations placed upon Andrew Luck almost seemed unfair .
+1 469 640 1 5 NA 37 37 Now , after guiding the Colts back to the playoffs - and breaking Cam Newton's single - season passing record for a first - year player - it's safe to say Luck exceeded just about all of them .
+1 469 641 0 1 NA 7 7 Colts beat Chiefs 20 - 13 to clinch playoff berth
+1 469 641 1 7 NA 1 1 That put them into the playoffs without worrying about anybody else .
+1 469 642 0 1 NA 8 8 Colts beat Chiefs 20 - 13 to clinch playoff berth
+1 469 642 1 7 NA 5 5 That put them into the playoffs without worrying about anybody else .
+1 469 642 2 5 NA 9 9 Now , after guiding the Colts back to the playoffs - and breaking Cam Newton's single - season passing record for a first - year player - it's safe to say Luck exceeded just about all of them .
+1 475 649 0 1 NA 2 2 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+1 475 649 1 3 NA 5 5 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+1 475 649 2 3 NA 13 14 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+1 475 650 0 1 NA 1 1 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+1 475 650 1 3 NA 3 3 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+1 475 651 0 3 NA 20 20 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+1 475 651 1 1 NA 8 8 Colts Clinch Playoff Spot with 20 - 13 Win Over Chiefs
+1 475 651 2 3 NA 32 32 The Indianapolis Colts clinched a playoff spot and the five seed in the AFC playoffs with a 20 - 13 win over the Kansas City Chiefs on another Andrew Luck game - winning drive , his seventh of the season .
+1 477 652 0 1 NA 1 1 Colts Beat Chiefs 20 - 13 To Clinch Playoff Berth
+1 477 652 1 6 NA 35 35 Luck threw for 205 yards Sunday , and his 7 - yard touchdown pass to Reggie Wayne on third - and - goal late in the fourth quarter gave the Colts a 20 - 13 victory over the Kansas City Chiefs .
+1 477 653 0 3 NA 1 1 The expectations placed upon Andrew Luck almost seemed unfair .
+1 477 653 1 5 NA 37 37 Now , after guiding the Colts back to the playoffs – and breaking Cam Newton's single - season passing record for a first - year player – it's safe to say Luck exceeded just about all of them .
+1 477 654 0 7 NA 5 5 That put them into the playoffs without worrying about anybody else .
+1 477 654 1 1 NA 8 8 Colts Beat Chiefs 20 - 13 To Clinch Playoff Berth
+1 477 654 2 5 NA 9 9 Now , after guiding the Colts back to the playoffs – and breaking Cam Newton's single - season passing record for a first - year player – it's safe to say Luck exceeded just about all of them .
+1 491 682 0 6 NA 22 22 Described as a 6 - feet tall and weighing approximately 200 pounds , Lyons warned that Comeaux knows the area where he escaped well and could have family nearby .
+1 491 682 1 4 NA 47 47 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+1 491 682 2 5 NA 24 24 Lyons said that Comeaux used a wheelchair in prison – he "claimed it was necessary for his mobility" – and added , "Since he fled on foot , that's obviously in question . "
+1 491 682 3 3 NA 24 24 A convicted child molester who was supposedly confined to a wheelchair overpowered two prison guards today , handcuffed them , stole their weapons and walked off wearing one of their uniforms .
+1 491 682 4 1 NA 8 10 Convicted Child Molestor Arcade Joseph Comeaux Jr . On The Lam in Texas
+1 491 683 0 11 NA 13 13 His wife survived , but another inmate who tried to break up the attack also suffered stab wounds , and Comeaux was convicted of additional assault charges and received two additional life sentences .
+1 491 683 1 10 NA 4 4 In 1999 , Comeaux stabbed his wife during a visit , using his wheelchair to pin her against a wall while he stabbed her .
+1 491 684 0 4 NA 18 18 Arcade Joseph Comeaux Jr . , 49 , is serving a life sentence for several charges – including indecency with a child – and was en route from the Estelle Unit in Huntsville , Texas , to the Stiles Unit in Beaumont , Texas , when he escaped just after 9 a . m .
+1 491 684 1 7 NA 20 20 He initially was imprisoned on February 1979 on three 10 - year sentences for rape of a child , aggravated rape of a child , and burglary of a building with the intent to commit theft .
+1 527 749 0 4 NA 9 9 Experts warned that it may be days before the fault is fixed and said the knock on effect could have serious repercussions on regional economies .
+1 527 749 1 2 NA 24 24 It is thought the FLAG FEA , SMW4 , and SMW3 lines , near the Alexandria cable station in Egypt , have all been cut .
+1 527 749 2 1 NA 21 21 Internet and phone communications between Europe , the Middle East , and Asia have been seriously disrupted after submarine cables were severed .
+1 534 764 0 2 NA 4 5 Doug McDermott got a scoring record Friday , Will Artino got a chance to showcase his skills on the big stage and Gregory Echenique got mad .
+1 534 764 1 20 NA 10 11 Doug McDermott finished with 23 points , setting the school scoring record when he got his 11th point on a free throw with 4 : 43 left in the first half .
+1 534 765 0 3 NA 12 12 The first two factored heavily into Creighton ’ s 65 - 53 victory against Drake in the quarterfinals of the Missouri Valley Conference tournament , but the last one might have been the deciding factor in moving the Bluejays along to Saturday ’ s semifinals .
+1 534 765 1 1 NA 6 6 McDermott fuels Bluejays in Valley tournament win
+1 534 766 0 1 NA 4 5 McDermott fuels Bluejays in Valley tournament win
+1 534 766 1 3 NA 20 23 The first two factored heavily into Creighton ’ s 65 - 53 victory against Drake in the quarterfinals of the Missouri Valley Conference tournament , but the last one might have been the deciding factor in moving the Bluejays along to Saturday ’ s semifinals .
+1 534 767 0 61 NA 7 7 He came in needing 11 points to break Rodney Buford ’ s scoring record of 2 , 106 .
+1 534 767 1 2 NA 2 2 Doug McDermott got a scoring record Friday , Will Artino got a chance to showcase his skills on the big stage and Gregory Echenique got mad .
+1 534 767 2 20 NA 7 7 Doug McDermott finished with 23 points , setting the school scoring record when he got his 11th point on a free throw with 4 : 43 left in the first half .
+1 555 800 0 8 NA 9 9 Doug McDermott put on a show as usual , scoring 23 points and becoming the school's all - time leader in points scored .
+1 555 800 1 8 NA 22 22 Doug McDermott put on a show as usual , scoring 23 points and becoming the school's all - time leader in points scored .
+1 571 829 0 3 NA 12 12 A 23 - year - old man has been charged with the murders of his mother and sister .
+1 571 829 1 1 NA 3 3 Man charged with murdering mother and sister in Cumbria
+1 571 829 2 4 NA 8 8 John Jenkin is due in court over the murders of Alice McMeekin , 58 , and Kathryn Jenkin , 20 .
+1 571 830 0 1 NA 1 1 Man charged with murdering mother and sister in Cumbria
+1 571 830 1 3 NA 9 9 A 23 - year - old man has been charged with the murders of his mother and sister .
+1 576 835 0 3 NA 11 11 A trial date's been set for a Millom man accused of murdering his mother and sister .
+1 576 835 1 1 NA 7 8 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+1 576 836 0 3 NA 4 4 A trial date's been set for a Millom man accused of murdering his mother and sister .
+1 576 836 1 1 NA 2 2 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+1 576 837 0 3 NA 1 1 A trial date's been set for a Millom man accused of murdering his mother and sister .
+1 576 837 1 1 NA 0 0 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+1 576 838 0 1 NA 5 5 TRIAL DATE SET FOR MAN ACCUSED OF DOUBLE MURDER IN MILLOM
+1 576 838 1 3 NA 9 9 A trial date's been set for a Millom man accused of murdering his mother and sister .
+1 593 894 0 4 NA 35 35 Gupta would n't comment to me -- while not denying the story -- but confirmed on his Twitter feed that he `` has been approached by the Obama administration about the U.S. surgeon general 's post . ''
+1 593 894 1 0 NA 8 8 I confirmed yesterday that Obama has offered the job and that Gupta had all but officially accepted .
+1 593 895 0 6 NA 9 9 It 's interesting that Obama was so intent on recruiting him that he met with the `` House Call '' host for 2 1/2 hours on Nov. 25 .
+1 593 895 1 0 NA 6 6 I confirmed yesterday that Obama has offered the job and that Gupta had all but officially accepted .
+1 593 895 2 4 NA 24 24 Gupta would n't comment to me -- while not denying the story -- but confirmed on his Twitter feed that he `` has been approached by the Obama administration about the U.S. surgeon general 's post . ''
+1 598 904 0 4 NA 9 9 On July 13 , Obama announced that he was nominating Regina M . Benjamin , MD , a family physician from southern Alabama , to be surgeon general .
+1 598 904 1 1 NA 6 6 Former AMA trustee Dr . Benjamin nominated to be surgeon general
+1 624 936 0 2 NA 2 2 Jackson was arrested on the DUI charge early Tuesday morning by the California Highway Patrol .
+1 624 936 1 1 NA 1 1 An arrest for suspicion of driving under the influence will not affect the playing status of San Diego Chargers wide receiver Vincent Jackson for Sunday 's divisional playoff game at Pittsburgh .
+1 624 937 0 2 NA 5 5 Jackson was arrested on the DUI charge early Tuesday morning by the California Highway Patrol .
+1 624 937 1 1 NA 5 8 An arrest for suspicion of driving under the influence will not affect the playing status of San Diego Chargers wide receiver Vincent Jackson for Sunday 's divisional playoff game at Pittsburgh .
+1 636 965 0 0 NA 5 5 San Diego 's Jackson is arrested on suspicion of drunk driving
+1 636 965 1 3 NA 8 8 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+1 636 966 0 3 NA 11 11 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+1 636 966 1 0 NA 7 7 San Diego 's Jackson is arrested on suspicion of drunk driving
+1 636 967 0 0 NA 9 10 San Diego 's Jackson is arrested on suspicion of drunk driving
+1 636 967 1 3 NA 13 14 San Diego Chargers wide receiver Vincent Jackson was arrested Tuesday on suspicion of drunk driving .
+1 646 984 0 1 NA 13 13 Two leaders of polygamous factions in Bountiful , British Columbia , have been arrested , Canadian authorities announced .
+1 646 984 1 10 NA 2 2 `` The arrests are the culmination of an intensive , seven-month charge assessment review by special prosecutor Terrence Robertson , '' who explored whether the men were in `` a conjungal relationship with more than one individual at a time , '' Oppal said .
+1 646 984 2 0 NA 1 1 Polygamy arrests made in Canada
+1 646 984 3 4 NA 3 3 The men were arrested this morning , said Sgt. Tim Shields , a media relations officer for the RCMP .
+1 656 1001 0 3 NA 3 3 OPAL SAYS THE ARRESTS ARE THE PRODUCT OF A SEVEN-MONTH CHARGE ASSESSMENT REVIEW BY SPECIAL PROSECUTOR TERRENCE ROBERTSON .
+1 656 1001 1 1 NA 5 5 POLICE HAVE MOVED IN AND ARRESTED AT LEAST TWO MEN FROM THE RELIGIOUS COMMUNITY OF BOUNTIFUL IN THE BC INTERIOR .
+1 656 1001 2 0 NA 2 2 RCMP MAKE ARRESTS IN BC POLYGAMOUS COMMUNITY
+1 656 1001 3 2 NA 22 22 BC ATTORNEY GENERAL WALLY OPAL ISSUED A STATEMENT TODAY SAYING THAT TWO MEN , WINSTON BLACKMORE AND JAMES OLER , HAD BEEN ARRESTED `` ON CHARGES OF POLYGAMY PURSUANT TO THE CRIMINAL CODE . ''
+1 658 1003 0 0 NA 2 2 Polygamous leaders arrested in Canada , ordered to surrender passports
+1 658 1003 1 1 NA 11 11 Two leaders of polygamous groups with ties to Utah have been arrested in Canada , charged with practicing polygamy .
+1 664 1016 0 5 NA 9 9 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+1 664 1016 1 4 NA 6 6 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+1 664 1016 2 4 NA 4 4 The epicenter of the quake , which originated six miles beneath the surface , was located 34 miles west of the town of Bireun , near the western coast of Sumatra island , according to the U . S . Geological Survey .
+1 664 1016 3 5 NA 7 7 No tsunami warnings were issued following the quake , which injured dozens and damaged several houses in Takengon , the capital of Central Aceh district , AP reported .
+1 664 1016 4 1 NA 0 0 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+1 664 1016 5 3 NA 1 6 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+1 664 1017 0 1 NA 10 10 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+1 664 1017 1 3 NA 33 33 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+1 664 1018 0 3 NA 7 7 A magnitude - 6 . 1 earthquake struck Indonesia's Aceh province on Tuesday at 07 : 37 a . m . UTC ( 3 : 37 a . m . EDT ) , killing at least one and leaving two others missing , the Associated Press reported .
+1 664 1018 1 1 NA 6 6 Earthquake Of Magnitude 6 . 1 Strikes Indonesia's Aceh Province Killing One
+1 761 1150 0 3 NA 15 15 Apple's MacBook line , particularly certain portions of it , have been overdue for a refresh .
+1 761 1150 1 5 NA 15 15 During the opening keynote of Apple's WWDC event Monday morning , Apple's Phil Schiller unveiled updates to both the MacBook Air and the MacBook Pro , as well as an entirely new next - generation MacBook Pro with a Retina Display .
+1 761 1151 0 1 NA 1 1 Apple Unveils New MacBook Air , Next - Generation MacBook Pro
+1 761 1151 1 5 NA 14 14 During the opening keynote of Apple's WWDC event Monday morning , Apple's Phil Schiller unveiled updates to both the MacBook Air and the MacBook Pro , as well as an entirely new next - generation MacBook Pro with a Retina Display .
+1 770 1160 0 0 NA 17 17 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+1 770 1160 1 2 NA 30 30 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+1 770 1160 2 30 NA 2 2 Explaining its attack on al-Fahora school , the Israeli military claimed that a mortar was fired from the playground , and it responded with a single shell whichkilled known Hamas fighters ; the resulting explosion was compounded because Hamas `` booby-trapped the school '' .
+1 770 1161 0 0 NA 29 29 Israel 's assault on Gaza has exacted the bloodiest toll of civilian lives yet , when the bombing of UN schools being used as refugee centres and of housing killed more than 50 people , including an entire family of seven young children .
+1 770 1161 1 2 NA 8 8 Doctors in Gaza said more than 40 people died , including children , in what appears to be the biggest single loss of life of the campaign when Israeli bombs hit al-Fakhora school , in Jabaliya refugee camp , while it was packed with hundreds of people who had fled the fighting .
+1 775 1165 0 3 NA 9 9 South Sudanese officials have condemned Sudan after an aerial bombardment of a refugee camp in their territory .
+1 775 1165 1 2 NA 1 1 Sudan 'bombs refugees' in South Sudan's Unity state
+1 808 1198 0 3 NA 7 7 T - Mobile has announced it will carry the BlackBerry Q10 , and business registration will begin at T - Mobile . com on April 29 .
+1 808 1198 1 1 NA 4 4 T - Mobile Will Carry the BlackBerry Q10
+1 832 1235 0 5 NA 24 24 Today , at least for the server side of the business they made a move that can potentially offer them visibility and differentiation by acquiring innovative server startup SeaMicro .
+1 832 1235 1 1 NA 1 1 AMD Acquires SeaMicro – Big Bet on Architectural Shift for Servers
+1 832 1235 2 2 NA 14 14 Summary : Rich Fichera looks at the risks and potential rewards of AMD's recent acquisition of innovative server startup SeaMicro .
+1 850 1264 0 6 NA 11 11 Bill Ritz , EDS spokesman , pointed out that Hewlett-Packard 's acquisition of EDS still needs the approval of regulators and EDS ' stockholders .
+1 850 1264 1 1 NA 17 17 It 's too early to tell what impact - if any - Hewlett-Packard Co. 's decision to acquire Electronic Data Systems Corp. will have on EDS ' operations in South Charleston , an EDS spokesman said .
+1 850 1264 2 2 NA 14 14 Earlier this month Hewlett-Packard unveiled a bid of nearly $ 14 billion bid to purchase EDS .
+1 853 1271 0 2 NA 4 4 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+1 853 1271 1 4 NA 21 21 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+1 853 1271 2 5 NA 3 3 HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+1 853 1271 3 1 NA 2 2 HP to acquire green consultancy EYP
+1 853 1271 4 15 NA 5 5 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+1 853 1272 0 1 NA 3 4 HP to acquire green consultancy EYP
+1 853 1272 1 4 NA 23 23 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+1 853 1273 0 2 NA 2 2 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+1 853 1273 1 4 NA 19 19 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+1 853 1274 0 4 NA 14 14 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+1 853 1274 1 15 NA 1 1 HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .
+1 853 1275 0 2 NA 1 1 HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+1 853 1275 1 4 NA 17 17 As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+1 854 1276 0 3 NA 15 15 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+1 854 1276 1 2 NA 1 1 HP lands green datacenter consultant EYP
+1 854 1276 2 5 NA 5 5 The financial details of the acquisition were not disclosed .
+1 854 1277 0 2 NA 4 4 HP lands green datacenter consultant EYP
+1 854 1277 1 3 NA 23 23 Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+1 859 1288 0 2 NA 16 16 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+1 859 1288 1 2 NA 37 37 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+1 859 1289 0 0 NA 17 17 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+1 859 1289 1 0 NA 35 35 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+1 859 1290 0 4 NA 2 2 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+1 859 1290 1 1 NA 4 4 So Scott Peterson was convicted because he 's a liar and a cheat and a fink and because his famous lawyer was unable to come up with a plausible explanation for why Laci Peterson 's body washed up where it washed up .
+1 859 1290 2 0 NA 4 4 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+1 859 1290 3 2 NA 5 5 In fact , he was convicted in part because defense attorney Mark Geragos offered so many explanations for Peterson 's conduct and Laci 's disappearance that prosecutors were able to make jurors laugh about the implausibility of them all .
+1 859 1291 0 3 NA 13 13 In essence , the jury concluded that the circumstances surrounding Laci Peterson 's disappearance and death could not reasonably be explained in any other way but that Scott Peterson wanted her dead so he could continue and perhaps expand his secret life with Amber Frey .
+1 859 1291 1 4 NA 29 29 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+1 859 1292 0 4 NA 3 3 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+1 859 1292 1 0 NA 5 5 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+1 859 1293 0 0 NA 38 38 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+1 859 1293 1 4 NA 12 12 Peterson was found guilty because jurors believed he had a motive to kill his wife and that Peterson 's conduct -- before , during and after Laci Peterson 's disappearance -- was too suspicious to be purely coincidental .
+1 859 1293 2 0 NA 8 8 Scott Peterson has been found guilty of first-degree murder , a verdict that means he could be executed if these same jurors vote as the `` conscience of their community '' that he deserves to die for his crimes .
+1 868 1314 0 1 NA 3 3 Christopher Simpson shoots pregnant girlfriend dead cause he didn't want another child to support .
+1 868 1314 1 2 NA 18 18 An Oklahoma jury has found 27 year old Christopher Simpson guilty of first degree murder of his then pregnant 20 year old girlfriend Ka'loni Flynn and their 12 week unborn child .
+1 899 1347 0 4 NA 28 28 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+1 899 1347 1 1 NA 3 3 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+1 899 1348 0 7 NA 8 8 With no deal in place for Ross to direct future films in the series , he is in a good position to ask for more money .
+1 899 1348 1 1 NA 5 5 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+1 899 1349 0 4 NA 9 9 The biggest player who doesn ’ t have a deal in place is director Gary Ross and The Hollywood Reporter and Collider are reporting that he is in negotiations with Lionsgate to return .
+1 899 1349 1 7 NA 2 2 With no deal in place for Ross to direct future films in the series , he is in a good position to ask for more money .
+1 899 1349 2 10 NA 35 35 Lionsgate can ’ t hide that they don ’ t have the money , but they have to spend it wisely to ensure the quality of the franchise continues and Ross could get a good deal out of it .
+1 899 1350 0 2 NA 17 17 Now that ‘ The Hunger Games ’ is a monster hit Lionsgate are getting ready for the sequel ‘ Catching Fire ’ .
+1 899 1350 1 1 NA 10 10 Gary Ross in negotiations to direct ‘ Hunger Games ’ sequel ‘ Catching Fire ’
+1 924 1381 0 3 NA 10 13 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+1 924 1381 1 1 NA 2 2 Wladimir Klitschko retains belts
+1 924 1382 0 3 NA 8 8 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+1 924 1382 1 5 NA 8 8 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+1 924 1382 2 16 NA 9 9 The champion cornered Thompson toward the end of the sixth , and landed punches to the head though no single blow appeared to cause serious damage .
+1 924 1383 0 15 NA 15 15 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+1 924 1383 1 4 NA 25 25 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+1 924 1384 0 5 NA 3 3 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight at 2 : 56 .
+1 924 1384 1 3 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to keep a comfortable hold on his WBA , IBF and WBO heavyweight titles Saturday night .
+1 924 1384 2 4 NA 16 16 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+1 924 1385 0 20 NA 16 16 Vitali was in his brother's corner as usual , and acted as cheerleader in the third round , urging on fans in the soccer stadium when the first chants of "Klitschko ! Klistchko ! stirred .
+1 924 1385 1 14 NA 16 16 Thompson briefly stepped up his cautious tactics when landing a left to Klitschko's face in the third .
+1 924 1386 0 4 NA 29 29 The 36 - year - old champion Klitschko , 58 - 3 with 51 knockouts , floored Thompson with a big right hand near the end of the fifth round at Stade de Suisse , and the 40 - year - old American never recovered .
+1 924 1386 1 15 NA 10 10 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+1 924 1386 2 15 NA 14 14 Klitschko finally landed a long , straight right in the fifth , and the round ended with Thompson struggling on the ropes .
+1 924 1387 0 8 NA 4 4 In 2008 , Klitschko stopped Thompson in the 11th round .
+1 924 1387 1 8 NA 9 9 In 2008 , Klitschko stopped Thompson in the 11th round .
+1 934 1408 0 0 NA 12 12 Wladimir Klitschko easily set aside the challenge of substitute Hasim Rahman , stopping the former heavyweight champion in seven rounds on Saturday in Mannheim , Germany .
+1 934 1408 1 0 NA 3 4 Wladimir Klitschko easily set aside the challenge of substitute Hasim Rahman , stopping the former heavyweight champion in seven rounds on Saturday in Mannheim , Germany .
