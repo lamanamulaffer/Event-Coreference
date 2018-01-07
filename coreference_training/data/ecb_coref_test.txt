@@ -1,0 +1,208 @@
+1 28 50 0 6 NA 31 31 The NYDN says that LiLo eventually made it to Morningside Recovery in Newport Beach , but two minutes after she walked through the door , she walked back through it and left .
+1 28 50 1 1 NA 6 7 Lindsay Lohan Checks Into Rehab , Checks Out Two Minutes Later
+1 28 51 0 7 NA 6 7 According to the NYDN , LiLo showed up to Morningside at around noon , spent a couple of minutes there , got spooked by the paparazzi ( uh huh ) and then jumped back into her SUV .
+1 28 51 1 6 NA 6 6 The NYDN says that LiLo eventually made it to Morningside Recovery in Newport Beach , but two minutes after she walked through the door , she walked back through it and left .
+1 28 52 0 3 NA 22 22 The judge should know to never ever trust a gnome with a law degree , because they are shifty shits and will lie to you with a twinkle in their eyes .
+1 28 52 1 4 NA 11 11 That ’ s exactly what LiLo ’ s lawyer Mark Heller did in court this morning .
+1 63 84 0 1 NA 11 11 Parliamentary elections in Turkmenistan to be held on two - party basis
+1 63 84 1 3 NA 21 21 Parliamentary elections in Turkmenistan which are planned for December 15 , 2013 , will be held on a two - party basis , a message from the Central Commission for Elections and Referenda of Turkmenistan said .
+1 63 85 0 3 NA 15 15 Parliamentary elections in Turkmenistan which are planned for December 15 , 2013 , will be held on a two - party basis , a message from the Central Commission for Elections and Referenda of Turkmenistan said .
+1 63 85 1 1 NA 6 6 Parliamentary elections in Turkmenistan to be held on two - party basis
+1 63 86 0 3 NA 1 1 Parliamentary elections in Turkmenistan which are planned for December 15 , 2013 , will be held on a two - party basis , a message from the Central Commission for Elections and Referenda of Turkmenistan said .
+1 63 86 1 4 NA 13 13 'Representatives of the two political parties will compete for victory in the parliamentary elections .
+1 63 86 2 1 NA 1 1 Parliamentary elections in Turkmenistan to be held on two - party basis
+1 93 103 0 3 NA 2 2 Indian Navy patrolling the Gulf of Aden yesterday thwarted a multi - boat attack by sea brigands on merchant vessels , apprehending 26 Somali pirates and confiscating arms and ammunition , in the fifth successful anti - piracy operation since September .
+1 93 103 1 8 NA 19 19 This is the fifth successful anti - piracy operation conducted by INS Sukanya in the course of her ongoing patrol mission in the Gulf of Aden that commenced in September , the navy said .
+1 93 104 0 1 NA 2 2 Indian Navy foils attack in Gulf of Aden , nabs 26 pirates
+1 93 104 1 3 NA 8 8 Indian Navy patrolling the Gulf of Aden yesterday thwarted a multi - boat attack by sea brigands on merchant vessels , apprehending 26 Somali pirates and confiscating arms and ammunition , in the fifth successful anti - piracy operation since September .
+1 93 105 0 3 NA 38 38 Indian Navy patrolling the Gulf of Aden yesterday thwarted a multi - boat attack by sea brigands on merchant vessels , apprehending 26 Somali pirates and confiscating arms and ammunition , in the fifth successful anti - piracy operation since September .
+1 93 105 1 8 NA 8 8 This is the fifth successful anti - piracy operation conducted by INS Sukanya in the course of her ongoing patrol mission in the Gulf of Aden that commenced in September , the navy said .
+1 93 106 0 1 NA 3 3 Indian Navy foils attack in Gulf of Aden , nabs 26 pirates
+1 93 106 1 3 NA 13 13 Indian Navy patrolling the Gulf of Aden yesterday thwarted a multi - boat attack by sea brigands on merchant vessels , apprehending 26 Somali pirates and confiscating arms and ammunition , in the fifth successful anti - piracy operation since September .
+1 93 107 0 1 NA 9 9 Indian Navy foils attack in Gulf of Aden , nabs 26 pirates
+1 93 107 1 3 NA 21 21 Indian Navy patrolling the Gulf of Aden yesterday thwarted a multi - boat attack by sea brigands on merchant vessels , apprehending 26 Somali pirates and confiscating arms and ammunition , in the fifth successful anti - piracy operation since September .
+1 145 135 0 3 NA 4 4 A man has denied arson following a fire at a Somerset supermarket early on Sunday .
+1 145 135 1 2 NA 6 6 Waitrose Wellington fire : Man denies arson
+1 145 136 0 3 NA 7 7 A man has denied arson following a fire at a Somerset supermarket early on Sunday .
+1 145 136 1 2 NA 2 2 Waitrose Wellington fire : Man denies arson
+1 166 159 0 0 NA 17 17 Two male gang members whose names remain unreleased were arrested last night in the case of the murder of Los Angeles County Sheriff 's Deputy Juan Abel Escalante which took place outside his Cypress Park home this August 2nd as he prepared to leave for work .
+1 166 159 1 0 NA 28 28 Two male gang members whose names remain unreleased were arrested last night in the case of the murder of Los Angeles County Sheriff 's Deputy Juan Abel Escalante which took place outside his Cypress Park home this August 2nd as he prepared to leave for work .
+1 225 250 0 1 NA 3 3 Brooklyn vigil for slain teen killed by NYPD snowballs into full blown riot
+1 225 250 1 1 NA 5 5 Brooklyn vigil for slain teen killed by NYPD snowballs into full blown riot
+1 225 250 2 4 NA 4 4 NYPD officers shot and killed the teen late Saturday night .
+1 225 251 0 1 NA 12 12 Brooklyn vigil for slain teen killed by NYPD snowballs into full blown riot
+1 225 251 1 5 NA 10 10 What started as a march , soon turned into a riot .
+1 225 252 0 2 NA 4 4 A candle light vigil turned violent Monday night in East Flatbush , Brooklyn .
+1 225 252 1 5 NA 7 7 What started as a march , soon turned into a riot .
+1 225 252 2 1 NA 8 8 Brooklyn vigil for slain teen killed by NYPD snowballs into full blown riot
+1 225 253 0 2 NA 3 3 A candle light vigil turned violent Monday night in East Flatbush , Brooklyn .
+1 225 253 1 1 NA 1 1 Brooklyn vigil for slain teen killed by NYPD snowballs into full blown riot
+1 260 328 0 9 NA 7 7 An office worker in Dubai said the tremor lasted 30 seconds and was strong enough to shake buildings along the skyscraper - lined central business district .
+1 260 328 1 3 NA 1 1 The quake was centred near Qeshm Island , home to 200 , 000 people , the U . S . Geological Survey said .
+1 260 328 2 2 NA 1 1 An earthquake with a magnitude of at least 5 . 9 hit southern Iran on Sunday , killing at least 10 people and injuring many others .
+1 268 341 0 3 NA 20 20 Raj Chohan , who lived in South Ozone Park , was walking towards a Sikh temple for a Friday evening service when Vishwanand Subryan , 23 , of Schenectady , N . Y . , allegedly mowed into the older woman with his gray 2013 Toyota Camry around 7 p . m . , police said .
+1 268 341 1 2 NA 13 13 A 59 - year - old grandmother on her way to a religious service in Richmond Hill last Friday was hit and killed by an allegedly drunk driver who fled the scene of the accident that left her family and friends devastated , Queens District Attorney Richard Brown said .
+1 268 342 0 1 NA 1 1 GRANDMOTHER KILLED BY DRUNK DRIVER IN HIT - AND - RUN ACCIDENT IN RICHMOND HILL , QUEENS DA SAYSSEPTEMBER 19 , 2013
+1 268 342 1 2 NA 22 22 A 59 - year - old grandmother on her way to a religious service in Richmond Hill last Friday was hit and killed by an allegedly drunk driver who fled the scene of the accident that left her family and friends devastated , Queens District Attorney Richard Brown said .
+1 268 343 0 7 NA 32 32 “ In this case , the defendant is accused of getting behind the wheel while under the influence of alcohol , being unable to maintain proper control of his vehicle , and striking a pedestrian before speeding away without checking to see if she needed medical assistance . ”
+1 268 343 1 2 NA 20 20 A 59 - year - old grandmother on her way to a religious service in Richmond Hill last Friday was hit and killed by an allegedly drunk driver who fled the scene of the accident that left her family and friends devastated , Queens District Attorney Richard Brown said .
+1 268 344 0 1 NA 11 11 GRANDMOTHER KILLED BY DRUNK DRIVER IN HIT - AND - RUN ACCIDENT IN RICHMOND HILL , QUEENS DA SAYSSEPTEMBER 19 , 2013
+1 268 344 1 3 NA 36 36 Raj Chohan , who lived in South Ozone Park , was walking towards a Sikh temple for a Friday evening service when Vishwanand Subryan , 23 , of Schenectady , N . Y . , allegedly mowed into the older woman with his gray 2013 Toyota Camry around 7 p . m . , police said .
+1 268 344 2 2 NA 34 34 A 59 - year - old grandmother on her way to a religious service in Richmond Hill last Friday was hit and killed by an allegedly drunk driver who fled the scene of the accident that left her family and friends devastated , Queens District Attorney Richard Brown said .
+1 268 344 3 5 NA 29 29 Subryan has been charged with vehicular manslaughter , criminally negligent homicide , driving while under the influence of alcohol , and leaving the scene of an accident without reporting it , the DA said .
+1 274 360 0 5 NA 18 18 Police say she was struck by a grey Toyota Camry heading north on 117th Street , which then fled the scene .
+1 274 360 1 1 NA 3 3 Queens hit and run leaves woman dead
+1 274 361 0 3 NA 13 13 Police have a suspect in custody after a hit and run accident that killed a woman in Queens Friday night .
+1 274 361 1 1 NA 6 6 Queens hit and run leaves woman dead
+1 274 362 0 4 NA 9 9 Investigators say 59 - year old Raj Chohan was hit while walking along parked cars at 97th Avenue and 117th Street in Richmond Hill at about 7 p . m .
+1 274 362 1 5 NA 4 4 Police say she was struck by a grey Toyota Camry heading north on 117th Street , which then fled the scene .
+1 274 362 2 1 NA 1 1 Queens hit and run leaves woman dead
+1 274 363 0 3 NA 12 12 Police have a suspect in custody after a hit and run accident that killed a woman in Queens Friday night .
+1 274 363 1 3 NA 11 11 Police have a suspect in custody after a hit and run accident that killed a woman in Queens Friday night .
+1 302 414 0 1 NA 12 12 Staunton Police Chief Jim Williams announced 61-year-old Sharron Diane Crawford Smith was arrested around 10:24 a.m. Friday and charged with two counts of first degree murder .
+1 302 414 1 0 NA 10 10 The Staunton Police Department announced Friday they have made an arrest in a 41-year-old double murder case .
+1 302 415 0 1 NA 25 25 Staunton Police Chief Jim Williams announced 61-year-old Sharron Diane Crawford Smith was arrested around 10:24 a.m. Friday and charged with two counts of first degree murder .
+1 302 415 1 0 NA 15 15 The Staunton Police Department announced Friday they have made an arrest in a 41-year-old double murder case .
+1 314 427 0 13 NA 26 26 The New Zealand - born man , who lived in Australia , had been dropped off by helicopter and was walking to a hut when he fell in the Tasman Glacier area .
+1 314 427 1 12 NA 19 19 Mr Buckley's death came a day after 36 - year - old Duncan Raite died when he slipped and fell around 200ft from a ridge in the same national park .
+1 314 428 0 12 NA 2 2 Mr Buckley's death came a day after 36 - year - old Duncan Raite died when he slipped and fell around 200ft from a ridge in the same national park .
+1 314 428 1 3 NA 14 14 A 32 - year - old British climber , described as "lacking experience" , dies after falling from a mountain in New Zealand .
+1 314 428 2 1 NA 5 5 New Zealand : British Climber Killed In Fall
+1 314 428 3 4 NA 5 5 A British man has been killed after falling around 2 , 000ft while climbing in New Zealand .
+1 314 429 0 1 NA 7 7 New Zealand : British Climber Killed In Fall
+1 314 429 1 3 NA 16 16 A 32 - year - old British climber , described as "lacking experience" , dies after falling from a mountain in New Zealand .
+1 314 429 2 4 NA 7 7 A British man has been killed after falling around 2 , 000ft while climbing in New Zealand .
+1 386 512 0 3 NA 21 21 Vincent "The Chin" Gigante , the New York mob boss whose crazy act earned him the nickname "The Oddfather , " died in prison Monday .
+1 386 512 1 7 NA 8 8 Bureau of Prisons spokesman Al Quintero said Gigante died early Monday of apparent heart disease at the U . S . medical center for federal prisoners in Springfield , Mo .
+1 386 512 2 1 NA 4 4 Vincent 'The Chin' Gigante dies in prison
+1 392 521 0 3 NA 4 4 Vincent Gigante , who feigned mental illness for decades to camouflage his position as one of the nation's most influential and dangerous Mafia leaders , died today in federal prison in Springfield , Mo . , officials told The Associated Press .
+1 392 521 1 1 NA 6 6 Vincent Gigante , Mafia Leader Who Feigned Insanity , Dies at 77
+1 392 522 0 1 NA 7 7 Vincent Gigante , Mafia Leader Who Feigned Insanity , Dies at 77
+1 392 522 1 3 NA 5 6 Vincent Gigante , who feigned mental illness for decades to camouflage his position as one of the nation's most influential and dangerous Mafia leaders , died today in federal prison in Springfield , Mo . , officials told The Associated Press .
+1 392 523 0 6 NA 8 8 Officials at the prison medical center where he died did not provide the cause of death but noted that he suffered from heart disease .
+1 392 523 1 3 NA 25 25 Vincent Gigante , who feigned mental illness for decades to camouflage his position as one of the nation's most influential and dangerous Mafia leaders , died today in federal prison in Springfield , Mo . , officials told The Associated Press .
+1 392 523 2 6 NA 15 15 Officials at the prison medical center where he died did not provide the cause of death but noted that he suffered from heart disease .
+1 392 523 3 5 NA 3 3 Mr . Gigante died while serving a 12 - year sentence imposed in 1997 after he was convicted of racketeering and conspiring to kill other mobsters .
+1 392 523 4 1 NA 9 9 Vincent Gigante , Mafia Leader Who Feigned Insanity , Dies at 77
+1 424 563 0 1 NA 1 1 Hackers exploit critical IE bug ; Microsoft promises patch
+1 424 563 1 4 NA 8 8 Computerworld - Microsoft today said that hackers are exploiting a critical , but unpatched , vulnerability in Internet Explorer 8 ( IE8 ) and Internet Explorer 9 ( IE9 ) , and that its engineers are working on an update to plug the hole .
+1 439 582 0 3 NA 10 10 Rob Jones , Felt 's grandson , said his grandfather died at his home in Santa Rosa , California .
+1 439 582 1 4 NA 6 6 According to published reports , Felt died of congestive heart failure .
+1 439 582 2 0 NA 10 10 Mark Felt , ' Deep Throat ' of Watergate , dead at 95
+1 439 582 3 1 NA 23 23 W. Mark Felt , who leaked information to reporters under the moniker , `` Deep Throat , '' about the Watergate break-in , died Thursday at the age of 95 , sources told CNN .
+1 495 676 0 1 NA 3 3 Texas Prison Escapee Added to U . S . Marshals '15 Most Wanted' List
+1 495 676 1 2 NA 7 7 The U . S . Marshals have added to their ” 15 Most Wanted “ list of fugitives a man serving three life sentences who escaped custody during his transport from Huntsville , Texas , to Stiles , Texas .
+1 495 677 0 3 NA 2 2 During the escape , Arcade Joseph Comeaux , Jr . allegedly produced a weapon and fired upon two correctional officers , took them hostage and forced them to drive to Baytown , Texas , where he restrained the officers in the back of the van , took their firearms and one of their uniforms .
+1 495 677 1 5 NA 6 6 Comeaux fled on foot following his escape .
+1 495 677 2 5 NA 1 1 Comeaux fled on foot following his escape .
+1 495 677 3 4 NA 3 3 Comeaux ’ s escape is all the more surprising since authorities had mistakenly believed he was paralyzed following a stroke , and was wheelchair bound .
+1 495 677 4 2 NA 25 25 The U . S . Marshals have added to their ” 15 Most Wanted “ list of fugitives a man serving three life sentences who escaped custody during his transport from Huntsville , Texas , to Stiles , Texas .
+1 501 681 0 3 NA 8 8 Arcade Joseph Comeaux Jr . , 49 , ran away on foot with the guards' guns and wearing one of their gray correctional officer uniforms , the statement from the Texas Department of Criminal Justice said .
+1 501 681 1 5 NA 1 1 The escape happened near Baytown , Texas , about 25 miles east of Houston , it said .
+1 501 681 2 1 NA 2 2 Texas Lifer Escapes Prison Van Near Houston
+1 501 681 3 2 NA 3 3 A Texas inmate escaped from a prison van near Houston after pulling a gun on two guards who were transporting him between prisons , according to a Texas prison statement Monday .
+1 517 710 0 0 NA 13 13 Internet and telephone traffic between Europe and the Middle East and Asia was hampered Friday after three major underwater data lines were cut , according to France Telecom .
+1 517 710 1 10 NA 3 3 Many countries were affected by the outage , including India , Saudi Arabia , Egypt and Malaysia , which all lost a significant percentage on their voice traffic to Europe .
+1 517 710 2 12 NA 5 5 Internet traffic also has been hit by the incident , according to Danny McPherson , chief security officer with Arbor Networks .
+1 517 711 0 12 NA 1 1 Internet traffic also has been hit by the incident , according to Danny McPherson , chief security officer with Arbor Networks .
+1 517 711 1 0 NA 3 3 Internet and telephone traffic between Europe and the Middle East and Asia was hampered Friday after three major underwater data lines were cut , according to France Telecom .
+1 517 712 0 12 NA 8 8 Internet traffic also has been hit by the incident , according to Danny McPherson , chief security officer with Arbor Networks .
+1 517 712 1 8 NA 13 13 `` Or it could be simply a ship in the area which has cut the cable . ''
+1 517 712 2 2 NA 1 1 The cuts were to the Sea Me We 4 and Sea Me We 3 lines , which connect countries between Singapore and France as well as the Flag cable route , which stretches from the U.K. to Japan , a France Telecom spokeswoman who asked not to be named said .
+1 517 712 3 3 NA 8 8 France Telecom is n't sure what caused the cut , she said .
+1 517 712 4 0 NA 22 22 Internet and telephone traffic between Europe and the Middle East and Asia was hampered Friday after three major underwater data lines were cut , according to France Telecom .
+1 517 712 5 9 NA 11 11 A maintenance boat is en route to the site of the cut , but it will not get there until Monday , and it will take as many as two weeks for the situation to return to normal , she said .
+1 517 712 6 1 NA 1 1 The cut occurred on lines between 07:28 and 08:06 Coordinated Universal Time ( UTC ) on lines in the Mediterranean sea that connect Sicily to Tunisia and Egypt , the telecommunications company said .
+1 517 713 0 10 NA 20 20 Many countries were affected by the outage , including India , Saudi Arabia , Egypt and Malaysia , which all lost a significant percentage on their voice traffic to Europe .
+1 517 713 1 10 NA 6 6 Many countries were affected by the outage , including India , Saudi Arabia , Egypt and Malaysia , which all lost a significant percentage on their voice traffic to Europe .
+1 521 724 0 1 NA 13 13 Egypt 's communications ministry says Internet cables in the Mediterranean Sea have been cut , causing massive Internet outages .
+1 521 724 1 2 NA 7 7 The ministry says three Internet cables were cut off the coast of Sicily on Friday morning .
+1 543 758 0 13 NA 27 27 But a 15 - 2 run during 5 minutes late in the game sealed the deal for the Jays , who will meet Indiana State in the semifinals Saturday afternoon after the Sycamores outlasted Evansville 51 - 50 Friday .
+1 543 758 1 1 NA 9 9 Ott ’ s Thoughts : Creighton Returns to MVC Semis With Win Over Drake
+1 543 759 0 1 NA 11 11 Ott ’ s Thoughts : Creighton Returns to MVC Semis With Win Over Drake
+1 543 759 1 14 NA 3 3 Creighton ’ s win over Drake was historic for a few reasons , chief among them McDermott setting the Creighton career scoring record .
+1 568 800 0 0 NA 8 9 A 35-year-old New Bedford man is awaiting a double murder arraignment after police arrested him on charges he killed his mother and ex-girlfriend .
+1 568 800 1 0 NA 16 16 A 35-year-old New Bedford man is awaiting a double murder arraignment after police arrested him on charges he killed his mother and ex-girlfriend .
+1 581 829 0 7 NA 27 27 While on the stand he told jurors that Timmons had asked him to tell police they were together until about 9 p.m. on the night of the shooting .
+1 581 829 1 0 NA 12 12 Testimony in the murder trial of an Albany teen accused in the shooting death of young Kathina Thomas continued for the second day on Wednesday .
+1 591 860 0 3 NA 11 11 Prosecutors have released new video in the trial of two men accused of killing a Brownsville mother of 12 in Oct . 2011 .
+1 591 860 1 6 NA 2 2 Authorities have charged Andrew Lopez and Jonathan Carrasquillo with her murder .
+1 591 861 0 1 NA 1 1 Prosecutors release new video in shooting trial of Brownsville mother of 12 , Zurana Horton
+1 591 861 1 3 NA 2 2 Prosecutors have released new video in the trial of two men accused of killing a Brownsville mother of 12 in Oct . 2011 .
+1 591 862 0 6 NA 10 10 Authorities have charged Andrew Lopez and Jonathan Carrasquillo with her murder .
+1 591 862 1 5 NA 3 3 Witnesses say Horton died trying to shield several students .
+1 591 862 2 3 NA 13 13 Prosecutors have released new video in the trial of two men accused of killing a Brownsville mother of 12 in Oct . 2011 .
+1 591 863 0 1 NA 5 6 Prosecutors release new video in shooting trial of Brownsville mother of 12 , Zurana Horton
+1 591 863 1 3 NA 7 7 Prosecutors have released new video in the trial of two men accused of killing a Brownsville mother of 12 in Oct . 2011 .
+1 604 878 0 4 NA 3 3 President Obama Announces Nominee for Surgeon General
+1 604 878 1 5 NA 9 9 Today , President Barack Obama announced his intent to nominate Regina M . Benjamin as Surgeon General , Department of Health and Human Services .
+1 604 879 0 4 NA 2 2 President Obama Announces Nominee for Surgeon General
+1 604 879 1 5 NA 5 5 Today , President Barack Obama announced his intent to nominate Regina M . Benjamin as Surgeon General , Department of Health and Human Services .
+1 616 892 0 1 NA 21 21 Robert Wood Johnson Foundation Trustee , Regina Benjamin , M . D . , M . B . A . , Nominated for Surgeon General of the United States
+1 616 892 1 4 NA 26 26 The Robert Wood Johnson Foundation congratulates former trustee , Regina Benjamin , M . D . , M . B . A . , on being nominated for Surgeon General of the United States .
+1 620 895 0 5 NA 10 10 In a Monday statement President Obama said he intended to nominate Dr . Regina Benjamin as Surgeon General , the United States government's "chief health educator . "
+1 620 895 1 1 NA 1 1 Obama nominates rural Catholic doctor as Surgeon General
+1 620 895 2 3 NA 8 8 President Barack Obama has announced that he is nominating a rural Alabama Catholic doctor to be the U . S . Surgeon General .
+1 620 896 0 3 NA 4 4 President Barack Obama has announced that he is nominating a rural Alabama Catholic doctor to be the U . S . Surgeon General .
+1 620 896 1 5 NA 3 3 In a Monday statement President Obama said he intended to nominate Dr . Regina Benjamin as Surgeon General , the United States government's "chief health educator . "
+1 620 896 2 6 NA 2 2 The president's announcement focused on health care reform as an urgent challenge .
+1 625 906 0 1 NA 6 6 Chargers' Jamal Williams arrested on DUI suspicion
+1 625 906 1 3 NA 7 8 Chargers defensive tackle Jamal Williams was arrested on suspicion of drunken driving , the team's second such arrest in less than a month .
+1 625 907 0 3 NA 10 11 Chargers defensive tackle Jamal Williams was arrested on suspicion of drunken driving , the team's second such arrest in less than a month .
+1 625 907 1 1 NA 5 5 Chargers' Jamal Williams arrested on DUI suspicion
+1 625 908 0 3 NA 17 17 Chargers defensive tackle Jamal Williams was arrested on suspicion of drunken driving , the team's second such arrest in less than a month .
+1 625 908 1 3 NA 6 6 Chargers defensive tackle Jamal Williams was arrested on suspicion of drunken driving , the team's second such arrest in less than a month .
+1 625 908 2 1 NA 3 3 Chargers' Jamal Williams arrested on DUI suspicion
+1 658 970 0 0 NA 2 2 Polygamous leaders arrested in Canada , ordered to surrender passports
+1 658 970 1 1 NA 11 11 Two leaders of polygamous groups with ties to Utah have been arrested in Canada , charged with practicing polygamy .
+1 674 1012 0 1 NA 6 11 Dozens injured , child dead as 6 . 1 - magnitude earthquake hits Indonesia's Aceh
+1 674 1012 1 4 NA 1 1 The quake struck inland at 0737 GMT at a depth of just 10 kilometres ( 6 . 2 miles ) in the mountainous Bener Meriah district in the heart of Aceh , the US Geological Survey said .
+1 674 1012 2 3 NA 1 6 A 6 . 1 - magnitude earthquake which hit the Indonesian province of Aceh on Tuesday killed a child , injured dozens and destroyed buildings , sparking panic in a region devastated by the quake - triggered tsunami of 2004 .
+1 674 1012 3 3 NA 7 7 A 6 . 1 - magnitude earthquake which hit the Indonesian province of Aceh on Tuesday killed a child , injured dozens and destroyed buildings , sparking panic in a region devastated by the quake - triggered tsunami of 2004 .
+1 674 1013 0 1 NA 1 1 Dozens injured , child dead as 6 . 1 - magnitude earthquake hits Indonesia's Aceh
+1 674 1013 1 3 NA 20 20 A 6 . 1 - magnitude earthquake which hit the Indonesian province of Aceh on Tuesday killed a child , injured dozens and destroyed buildings , sparking panic in a region devastated by the quake - triggered tsunami of 2004 .
+1 674 1014 0 3 NA 16 16 A 6 . 1 - magnitude earthquake which hit the Indonesian province of Aceh on Tuesday killed a child , injured dozens and destroyed buildings , sparking panic in a region devastated by the quake - triggered tsunami of 2004 .
+1 674 1014 1 1 NA 4 4 Dozens injured , child dead as 6 . 1 - magnitude earthquake hits Indonesia's Aceh
+1 674 1015 0 4 NA 2 2 The quake struck inland at 0737 GMT at a depth of just 10 kilometres ( 6 . 2 miles ) in the mountainous Bener Meriah district in the heart of Aceh , the US Geological Survey said .
+1 674 1015 1 1 NA 12 12 Dozens injured , child dead as 6 . 1 - magnitude earthquake hits Indonesia's Aceh
+1 674 1015 2 3 NA 8 8 A 6 . 1 - magnitude earthquake which hit the Indonesian province of Aceh on Tuesday killed a child , injured dozens and destroyed buildings , sparking panic in a region devastated by the quake - triggered tsunami of 2004 .
+1 693 1052 0 4 NA 1 1 An earthquake with a preliminary magnitude of 4 . 6 was recorded in the North Bay this morning , according to the U . S . Geological Survey .
+1 693 1052 1 1 NA 0 5 4 . 6 - Magnitude Earthquake Recorded Near Healdsburg
+1 693 1052 2 5 NA 1 1 The quake occurred at 2 : 09 a . m . about 14 miles north - northeast of Healdsburg and had a depth of 1 . 2 miles .
+1 693 1053 0 4 NA 11 11 An earthquake with a preliminary magnitude of 4 . 6 was recorded in the North Bay this morning , according to the U . S . Geological Survey .
+1 693 1053 1 1 NA 6 6 4 . 6 - Magnitude Earthquake Recorded Near Healdsburg
+1 696 1058 0 4 NA 1 1 The temblor struck about 26 miles north of Santa Rosa in the Geysers area .
+1 696 1058 1 1 NA 0 3 4 . 6 earthquake shakes Northern California
+1 696 1058 2 3 NA 1 5 A magnitude 4 . 6 earthquake struck Northern California on Thursday morning ,
+1 696 1058 3 6 NA 0 0 It was felt over a wide area of the region , including in Santa Rosa , Marin County and Vallejo , according to the U . S . Geological Survey .
+1 696 1059 0 4 NA 2 2 The temblor struck about 26 miles north of Santa Rosa in the Geysers area .
+1 696 1059 1 1 NA 4 4 4 . 6 earthquake shakes Northern California
+1 696 1059 2 3 NA 6 6 A magnitude 4 . 6 earthquake struck Northern California on Thursday morning ,
+1 710 1071 0 4 NA 30 30 Peter Capaldi , best known for playing foul - mouthed spin doctor Malcolm Tucker in political satire The Thick of It , has been named as the 12th actor to play the Doctor in the TV series Doctor Who .
+1 710 1071 1 2 NA 20 20 Scottish actor best known for his role as Malcolm Tucker in The Thick of It revealed as 12th actor to play the Doctor
+1 819 1170 0 0 NA 23 23 RBC Capital Markets downgraded ATI Technologies to `` sector perform '' from `` outperform '' after Advanced Micro Devices announced its intention to buy the Canadian graphics chip-maker for $ 5.4 billion on Monday .
+1 819 1170 1 2 NA 7 7 For now , Arthur said AMD 's takeover deal , which is expected to close in the fourth quarter , effectively offers his one-year price target of $ 21 now .
+1 819 1170 2 1 NA 3 3 Even though the takeover looks fairly valued , RBC analyst Steve Arthur said there is limited upside to the offer unless competing bids are made for ATI .
+1 846 1210 0 2 NA 6 6 H-P announced Tuesday that it will buy the outsourcing services company for $ 13.9 billion .
+1 846 1210 1 1 NA 4 4 The repercussions from the merger of Electronic Data Systems ( EDS Quote - Cramer on EDS - Stock Picks ) with Hewlett-Packard ( HPQ Quote - Cramer on HPQ - Stock Picks ) will ripple broadly throughout the tech industry .
+1 846 1210 2 7 NA 2 2 And the merger could throw a wrench into EDS 's Agility Alliance , a group of vendors that regularly coordinate to supply hardware , networking , software and services to EDS 's outsourcing clients .
+1 851 1218 0 6 NA 4 4 HP announced that the deal would close during its first financial quarter .
+1 851 1218 1 1 NA 1 2 HP Snaps Up Data Center Consulting Firm
+1 851 1218 2 4 NA 2 2 In a move that will expand its services division , Hewlett - Packard will acquire EYP Mission Critical Facilities , a New York company that offers data center consulting services .
+1 851 1218 3 4 NA 3 3 In a move that will expand its services division , Hewlett - Packard will acquire EYP Mission Critical Facilities , a New York company that offers data center consulting services .
+1 851 1218 4 5 NA 4 4 Financial details of the acquisition , announced Nov . 12 , were not disclosed .
+1 851 1218 5 3 NA 1 1 The acquisition of EYP Mission Critical Facilities will help the OEM expand its services division .
+1 851 1218 6 4 NA 14 14 In a move that will expand its services division , Hewlett - Packard will acquire EYP Mission Critical Facilities , a New York company that offers data center consulting services .
+1 851 1219 0 1 NA 5 5 HP Snaps Up Data Center Consulting Firm
+1 851 1219 1 4 NA 28 29 In a move that will expand its services division , Hewlett - Packard will acquire EYP Mission Critical Facilities , a New York company that offers data center consulting services .
+1 851 1220 0 6 NA 1 1 HP announced that the deal would close during its first financial quarter .
+1 851 1220 1 5 NA 6 6 Financial details of the acquisition , announced Nov . 12 , were not disclosed .
+1 868 1264 0 1 NA 3 3 Christopher Simpson shoots pregnant girlfriend dead cause he didn't want another child to support .
+1 868 1264 1 2 NA 18 18 An Oklahoma jury has found 27 year old Christopher Simpson guilty of first degree murder of his then pregnant 20 year old girlfriend Ka'loni Flynn and their 12 week unborn child .
+1 920 1325 0 2 NA 10 10 Wladimir Klitschko stopped Tony Thompson in the sixth round to retain his WBA , IBF and WBO heavyweight title belts Saturday night .
+1 920 1325 1 1 NA 9 9 Wladimir Klitschko stops Tony Thompson in 6th round to retain world heavyweight titles
+1 920 1326 0 2 NA 8 8 Wladimir Klitschko stopped Tony Thompson in the sixth round to retain his WBA , IBF and WBO heavyweight title belts Saturday night .
+1 920 1326 1 4 NA 8 8 The Ukrainian champion dropped Thompson again in the sixth , and referee Sam Williams gave the challenger a standing count before stopping the fight .
+1 920 1326 2 1 NA 7 7 Wladimir Klitschko stops Tony Thompson in 6th round to retain world heavyweight titles
+1 920 1327 0 2 NA 2 2 Wladimir Klitschko stopped Tony Thompson in the sixth round to retain his WBA , IBF and WBO heavyweight title belts Saturday night .
+1 920 1327 1 1 NA 2 2 Wladimir Klitschko stops Tony Thompson in 6th round to retain world heavyweight titles
